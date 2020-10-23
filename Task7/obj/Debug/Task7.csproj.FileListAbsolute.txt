@@ -1,0 +1,6 @@
+D:\projects\ISMDotNet2\Task7\bin\Debug\Task7.exe.config
+D:\projects\ISMDotNet2\Task7\bin\Debug\Task7.exe
+D:\projects\ISMDotNet2\Task7\bin\Debug\Task7.pdb
+D:\projects\ISMDotNet2\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+D:\projects\ISMDotNet2\Task7\obj\Debug\Task7.exe
+D:\projects\ISMDotNet2\Task7\obj\Debug\Task7.pdb

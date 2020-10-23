@@ -1,0 +1,6 @@
+D:\projects\ISMDotNet2\Task6\bin\Debug\Task6.exe.config
+D:\projects\ISMDotNet2\Task6\bin\Debug\Task6.exe
+D:\projects\ISMDotNet2\Task6\bin\Debug\Task6.pdb
+D:\projects\ISMDotNet2\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+D:\projects\ISMDotNet2\Task6\obj\Debug\Task6.exe
+D:\projects\ISMDotNet2\Task6\obj\Debug\Task6.pdb
